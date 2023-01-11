@@ -3,7 +3,6 @@ public class zeroesToEnd
 {
     public static void main(String arg[])
     {
-        zeroesToEnd ob=new zeroesToEnd();
         Scanner sc=new Scanner(System.in);
 
         int n=sc.nextInt();
